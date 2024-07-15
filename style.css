@@ -73,10 +73,9 @@ div {
 
 
 /* Start Fourth Solve */
-/* body {
+body {
     background-color: #0304;
     display: grid;
-    grid-template-columns: 1;
     place-content: center;
 }
 div {
@@ -84,7 +83,7 @@ div {
     height: 400px;
     background-color: #FFF;
     border-radius: 10px;
-} */
+}
 /* End Fourth Solve */
 
 
